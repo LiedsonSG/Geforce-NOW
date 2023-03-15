@@ -1,4 +1,3 @@
-# Geforce-NOW
 <!DOCTYPE html>
 <html>
     <head>
@@ -14,4 +13,3 @@
         Clique aqui : <a href="https://www.nvidia.com/pt-br/geforce-now/">Geforce NOW</a>
     </body>
 </html>
-Games na Nuvem
